@@ -1,3 +1,9 @@
+a, p {
+  letter-spacing: 0.12em;
+  line-height: 1.5em;  
+  word-spacing: 0.16em;
+}
+
 p {
-  color: purple !important;
+  margin-bottom: 1rem;
 }
